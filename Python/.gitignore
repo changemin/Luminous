@@ -1,0 +1,6 @@
+data/train/
+data/validate/
+
+__pycache__
+
+.ipynb_checkpoints
